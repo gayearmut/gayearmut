@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning ABAP<br>⚡ Passion for coding and art
+⚡ Passion for coding and art
 
 
 ## 🌐 Socials:
